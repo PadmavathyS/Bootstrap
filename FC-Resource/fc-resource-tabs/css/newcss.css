@@ -1,0 +1,39 @@
+   .bs-example
+        {
+        margin-left: auto;
+	    margin-top: 70px;
+            
+        }
+        .btn
+        {
+            width : 170px ;
+            margin-left : 7px;
+            margin-top : 20px;
+        }
+	
+        .well
+        {
+            margin-top: 20px;
+        }
+	button:focus {
+	    color: blue;
+	    }
+	
+	button:active {
+            font-weight: bold;
+            background: pink;
+	}
+	a:hover{
+	    background: white;
+	}
+	
+	.btn-highlight {
+            background: green;
+                    }
+	
+    
+     .sidebar{
+        height: 500px;
+        background: #D1D1D1;
+     }
+     
